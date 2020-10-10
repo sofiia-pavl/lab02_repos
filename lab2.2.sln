@@ -1,0 +1,19 @@
+﻿'Lab2.1.exe' (Win32): Loaded 'C:\Users\lyubu\source\repos\Lab2.1\Debug\Lab2.1.exe'. Symbols loaded.
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x41f0 has exited with code 0 (0x0).
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'Lab2.1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x3198 has exited with code 0 (0x0).
+The thread 0x1c84 has exited with code 0 (0x0).
+The thread 0x3f98 has exited with code 0 (0x0).
+The program '[15320] Lab2.1.exe' has exited with code 0 (0x0).
